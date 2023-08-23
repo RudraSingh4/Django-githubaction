@@ -24,6 +24,6 @@ jobs:
 
       - name: Push Docker image
         run: |
-          docker tag rudra006 rudra08/rudra006:latest
-          docker push rudra08/rudra006:latest
+          docker tag rudra06 rudra08/rudra06:latest
+          docker push rudra08/rudra06:latest
 
