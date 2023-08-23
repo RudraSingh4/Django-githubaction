@@ -12,6 +12,6 @@ steps:-
 2. Write a workflow related Django project.
 
 
-In Github repo click Action , Click Secrets and variable and set set Secret (1.Docker_username 2. Docker_password)
+In Github repo click Action , Click Secrets and variable and set Secret (1.Docker_username 2. Docker_password)
 Open Docker hub and set tokens (open profile and click security and create new tokens ) copy tokens and paste in (docker password) secret.
 
