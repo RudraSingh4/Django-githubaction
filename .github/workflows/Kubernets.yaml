@@ -15,5 +15,5 @@ jobs:
           kubeconfig: ${{ secrets.KUBECONFIG }}  #Kube configuration
       - name: Deploy
         run: |
-          kubectl apply -f Django-githubaction/deployment.yaml
+          kubectl apply -f deployment.yaml
          
